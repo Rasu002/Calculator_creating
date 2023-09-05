@@ -1,0 +1,78 @@
+.title{
+    position: relative;
+    font-size: 5rem;
+    margin-top:4rem;
+    margin-left: 18rem;
+    font-style: italic;
+    color: red;
+
+}
+
+
+
+.calculator{
+    height: 25rem;
+    width: 25rem;
+    margin-top: 5rem;
+    margin-left: 16rem;
+    background-color: antiquewhite;
+    position: relative;
+
+}
+
+.output{
+    color: blueviolet;
+    font-size: 4rem;
+    text-align: center;
+    margin-top: rem;
+    margin-left: 6rem;
+    position: absolute;
+    font-style: italic;
+}
+
+#numbers{
+    font-size: 2.5rem;
+    height: 2rem;
+    width: 20rem;
+    margin-top: 4.5rem;
+    margin-left: 1rem;
+    text-align: center;
+    position: absolute;
+}
+
+#val_1{
+    position: absolute;
+    margin-top: 8rem;
+    margin-left: 5rem;
+
+}
+
+#val_2{
+    position: absolute;
+    margin-top: 8rem;
+    margin-left: 5rem;
+}
+
+#add{
+    position: absolute;
+    margin-top: 8rem;
+    margin-left: 8rem;
+}
+
+#sub{
+    position: absolute;
+    margin-top: 8rem;
+    margin-left: 8rem;
+}
+
+#mul{
+    position: absolute;
+    margin-top: 8rem;
+    margin-left: 8rem;
+}
+
+#div{
+    position: absolute;
+    margin-top: 8rem;
+    margin-left: 8rem;
+}
